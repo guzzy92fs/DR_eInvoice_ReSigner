@@ -1,6 +1,6 @@
 # eIInvoice LT ReFirma
 
-**eIInvoice LT ReFirma** is a specialized desktop utility developed for **La Tabacalera S.A.** to handle the bulk re-signing of Electronic Fiscal Interface (e-CF) documents for the Dominican Republic (DGII).
+**eIInvoice LT ReFirma** is a specialized desktop utility developed to handle the bulk re-signing of Electronic Fiscal Interface (e-CF) documents for the Dominican Republic (DGII).
 
 This tool is specifically designed to resolve issues with revoked or expired digital certificates by stripping old signatures and applying a fresh **RSA-SHA256** signature using a new `.p12` or `.pfx` certificate.
 
