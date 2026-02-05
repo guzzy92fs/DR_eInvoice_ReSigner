@@ -17,7 +17,7 @@ This tool is specifically designed to resolve issues with revoked or expired dig
 * **Dependencies:** `System.Security.Cryptography.Xml` (v8.0.0).
 * **Certificate:** Valid `.p12` or `.pfx` file provided by an authorized CA (e.g., Viafirma).
 
-## 💻 How to Use
+## How to Use
 1. **Certificate Configuration:** Browse for your `.p12` file and enter the password.
 2. **Add Files:** Use "Add XML Files..." to select the invoices that need to be re-signed.
 3. **Select Output:** Choose a destination folder where the cleaned, signed files will be saved.
